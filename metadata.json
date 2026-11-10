@@ -1,0 +1,6 @@
+{
+  "name": "Dokan 2.0",
+  "description": "Comprehensive store inventory, POS sales, customer & supplier Baki khata ledger for retail and wholesale businesses.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
